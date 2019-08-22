@@ -1,5 +1,5 @@
 # Business Problem:
-While employers expect employees to miss a certain number of workdays each year, excessive absences can equate to decreased productivity and can have a major effect on company finances, morale, and other factors.
+While employers expect employees to miss a certain number of workdays each year, excessive absences can equate to decreased productivity and can have a major effect on company finances, morale, and other factors. Excessive absenteeism is defined as a person being absence from work for more than 3 hours.
 
 # Project Objective
 In this project is to help predict absenteeism at Company X during work time. 
