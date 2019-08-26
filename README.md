@@ -6,7 +6,7 @@ In this project is to help predict absenteeism at Company X during work time.
 
 The project is broken up into 2 phases:
 
-* Phase 1: [Data Pre-processing and Exploratory Analysis](https://github.com/vanessamiranda/Absenteeism_Prediction/blob/master/Absenteeism-Productivity-Pre-processing%20Analysis.ipynb).
+* Phase 1: [Data Pre-processing and Exploratory Analysis](https://github.com/vanessamiranda/Absenteeism-Prediction/blob/master/Absenteeism-Productivity-Pre-processing%20Analysis%20(1).ipynb).
 
 Data pre-processing involves data cleaning, data transformation, data reduction, and data selection.
 
